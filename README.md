@@ -21,3 +21,4 @@ This project aims to predict **credit risk** using the **HELOC (Home Equity Line
 
 ## 📊 SHAP Analysis
 SHAP values help to explain the model’s predictions by showing how each feature contributes to the output.
+LIME values help to explain the model’s predictions by showing how each feature contributes to the output.
